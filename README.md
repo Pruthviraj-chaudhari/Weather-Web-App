@@ -16,4 +16,4 @@ To use this app, simply clone the repository and open the index.html file in you
 If you're interested in contributing to this project, feel free to fork the repository and submit a pull request with your changes. I'm always looking for ways to improve the app and would be happy to receive contributions from the community.
 
 
-Live Link🚀: 
+Live Link🚀: https://weather-web-app-by-pruthviraj.netlify.app/
